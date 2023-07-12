@@ -1,0 +1,15 @@
+{
+  "name": "amin/post",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "AminTay",
+      "email": "amin@min.com"
+    }
+  ],
+  "require": {}
+}
